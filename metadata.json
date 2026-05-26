@@ -1,0 +1,6 @@
+{
+  "name": "Vesper",
+  "description": "Premium, AI-native email client designed for closed loops of clarity and speed.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
