@@ -1,4 +1,6 @@
-# <p align="center"><img src="src/assets/images/home.gif" alt="Vesper Mail Client Banner" width="100%" referrerPolicy="no-referrer" /></p>
+# <p align="center">
+<img src="src/assets/images/home.gif" alt="Vesper Mail Client Banner" width="100%" referrerPolicy="no-referrer" />
+</p>
 
 <div align="center">
   <h1>🌌 Vesper Mail Client</h1>
