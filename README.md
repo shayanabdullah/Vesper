@@ -1,4 +1,6 @@
-# <p align="center"><img src="src/assets/images/vesper_github_banner_1779812439434.png" alt="Vesper Mail Client Banner" width="100%" referrerPolicy="no-referrer" /></p>
+# <p align="center">
+<video src="src/assets/video/video.mp4" loop autoplay alt="Vesper Mail Client Banner" width="100%" referrerPolicy="no-referrer"></video>
+</p>
 
 <div align="center">
   <h1>🌌 Vesper Mail Client</h1>
